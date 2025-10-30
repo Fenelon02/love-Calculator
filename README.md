@@ -2,9 +2,6 @@
 
 # 💖 Love Calculator  
 _A simple, fun web app built with HTML, CSS & JavaScript._
-
-[View the Project on GitHub](https://github.com/Fenelon02/love-Calculator)
-
 ---
 
 ## 🧪 What it does  
@@ -29,6 +26,8 @@ This little project lets you input two names and returns a playful "love-percent
 ## 🚀 Getting Started  
 
 To run this project locally:
+</div>
+
 
 ```bash
 # Clone the repo
@@ -39,3 +38,4 @@ cd love-Calculator
 
 # Open index.html in your browser
 open index.html  # or just double-click in GUI
+```
